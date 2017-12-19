@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\networkwordcountexample_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	NetworkWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\NetworkWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	NetworkWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\NetworkWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	StreamingExamples$.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\StreamingExamples$.class[0m
+[0m[[0mdebug[0m] [0m	NetworkWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\NetworkWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	NetworkWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\NetworkWordCount.class[0m
+[0m[[0mdebug[0m] [0m	StreamingExamples$$anonfun$setStreamingLogLevels$1.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\StreamingExamples$$anonfun$setStreamingLogLevels$1.class[0m
+[0m[[0mdebug[0m] [0m	NetworkWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\NetworkWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	StreamingExamples.class[0m
+[0m[[0mdebug[0m] [0m	  H:\BigDataWorkspace\NetworkWordCountExample\target\scala-2.10\classes\StreamingExamples.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
